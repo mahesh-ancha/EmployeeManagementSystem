@@ -14,12 +14,7 @@ namespace EmployeeManagement.PresentationLayer
 
 
             Employee employee = new Employee();
-            employee.Id = 1;
-            employee.Name = "mahesh";
-            employee.Salary = 20000;
-            employee.Gender = "male";
-            employee.Age = 22;
-            employee.Department = "Dotnet";
+            
 
             EmployeeBusinessLogic employeeBusinessLogic = new EmployeeBusinessLogic();
 
